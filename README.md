@@ -13,7 +13,7 @@ Name - Carter Hatcher
 
 If you've had a chance to look at my LinkedIn, great! If not, no worries—I'll keep this brief.
 
-For most of my adult life, I have acted in mechanical technician roles in a variety in industries. Granted, there isn't much overlap in security as far as technical skills but I’m confident that the soft skills I’ve developed along the way will prove just as valuable. Soft skills, sush as effectively communicating highly technical concepts to "need to know" parties that may not have an understanding or troubleshooting complex problems in unconventional ways.
+For most of my adult life I have acted in mechanical technician roles in a variety of industries and while my technical skills may not directly translate to security, I have no doubt soft skills developed over time can be employed. Soft skills sush as effectively communicating highly technical concepts to "need to know" parties that may not have an understanding or troubleshooting complex problems in unconventional ways.
 
 ### Why?
 ---
