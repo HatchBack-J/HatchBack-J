@@ -1,5 +1,5 @@
 ## **Welcome to the starting line!**
- Hi! I'm Carter, thanks for stopping in 👋
+ Hi! I'm Carter, thanks for stopping in
  
  Here's the polished up version of what you'll see here
 
@@ -17,4 +17,13 @@ For most of my adult life, I have acted in mechanical technician roles in a vari
 
 ### Why?
 ---
-My goal is to transition into the security field while leveraging the knowledge that I have picked up along the way. The purpose of this portfolio is to not only showcase what I have accomplished so far but to hopefully leave a positive impression on you.
+My goal is to transition into the cybersecurity field, leveraging the knowledge and skills I’ve acquired thus far. This portfolio is designed not only to showcase what I’ve accomplished but also to ideally leave a positive and lasting impression on you.
+
+As for why I’ve chosen such a dramatic career change, it’s clear that the modern world is increasingly reliant on technology and connectivity. As companies grow and expand, their reliance on secure, modern infrastructure becomes a necessity. Skilled security professionals are critical in this and I intend to be a part of that wave of professionals.
+
+### Well, what do you know?
+---
+| **Certifications**             |
+|-------------------------------|
+| Google Cybersecurity Certificate |
+| CompTIA Security+             |
